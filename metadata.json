@@ -1,0 +1,6 @@
+{
+  "name": "Мурка — Трекер привычек с питомцем",
+  "description": "Эстетичный Telegram Mini App трекер привычек с виртуальной кошечкой Муркой: геймификация, стрики, CloudStorage и уютный дизайн.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
